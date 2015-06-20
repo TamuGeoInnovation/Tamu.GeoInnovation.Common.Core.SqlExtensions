@@ -1,0 +1,4 @@
+C:\DevSource\Tamu\GeoInnovation\Common.Core.SqlExtensions\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.SqlExtensions.dll.config
+C:\DevSource\Tamu\GeoInnovation\Common.Core.SqlExtensions\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.SqlExtensions.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.SqlExtensions\Src\Main\obj\Release\Common.Core.SqlExtensions.Build.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Common.Core.SqlExtensions\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.SqlExtensions.dll
