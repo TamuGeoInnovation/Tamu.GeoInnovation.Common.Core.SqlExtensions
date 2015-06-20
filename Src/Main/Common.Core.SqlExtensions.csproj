@@ -110,27 +110,27 @@
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Drawing\Src\Main\Common.Core.Drawing.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Drawing\Src\Main\Common.Core.Drawing.csproj">
       <Project>{282C24E4-E164-4679-AAD4-E640B30404DC}</Project>
       <Name>Common.Core.Drawing</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\ExceptionHandling\Src\Main\Common.Core.ExceptionHandling.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.ExceptionHandling\Src\Main\Common.Core.ExceptionHandling.csproj">
       <Project>{4A553AE2-F5D1-42B6-BE3A-8442DF626EAF}</Project>
       <Name>Common.Core.ExceptionHandling</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Utils\Src\Main\Common.Core.Utils.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Utils\Src\Main\Common.Core.Utils.csproj">
       <Project>{0744A732-A7FE-4658-967D-C5A583EF08E4}</Project>
       <Name>Common.Core.Utils</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Security\Src\Main\Common.Core.Security.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Security\Src\Main\Common.Core.Security.csproj">
       <Project>{D46E3A34-D2A4-4617-A13D-39E787C48C15}</Project>
       <Name>Common.Core.Security</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Threading\Src\Main\Common.Core.Threading.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Threading\Src\Main\Common.Core.Threading.csproj">
       <Project>{FE6237ED-DCBB-43F5-A216-27CB99BEAFDB}</Project>
       <Name>Common.Core.Threading</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Web\Src\Main\Common.Core.Web.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Web\Src\Main\Common.Core.Web.csproj">
       <Project>{DEA75FBD-F1B4-4730-B10D-CBE20538DA37}</Project>
       <Name>Common.Core.Web</Name>
     </ProjectReference>
