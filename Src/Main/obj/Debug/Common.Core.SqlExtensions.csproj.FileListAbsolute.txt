@@ -1,6 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlExtensions\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.SqlExtensions.dll.config
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlExtensions\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.SqlExtensions.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlExtensions\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.SqlExtensions.pdb
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlExtensions\src\obj\Debug\Common.Core.SqlExtensions.csprojResolveAssemblyReference.cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlExtensions\src\obj\Debug\USC.GISResearchLab.Common.Core.SqlExtensions.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlExtensions\src\obj\Debug\USC.GISResearchLab.Common.Core.SqlExtensions.pdb
