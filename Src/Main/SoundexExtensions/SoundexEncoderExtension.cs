@@ -1,6 +1,6 @@
-﻿using System;
+﻿using Microsoft.SqlServer.Server;
+using System;
 using System.Text;
-using Microsoft.SqlServer.Server;
 
 namespace USC.GISResearchLab.Common.Core.SqlExtensions.SoundexExtensions
 {
